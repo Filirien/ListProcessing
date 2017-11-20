@@ -1,7 +1,7 @@
-﻿using ListProcessing.Core;
-
-namespace ListProcessing
+﻿namespace ListProcessing
 {
+    using ListProcessing.Core;
+
     class StartUp
     {
         static void Main(string[] args)
